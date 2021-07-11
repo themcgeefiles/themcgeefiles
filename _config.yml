@@ -20,7 +20,8 @@
 
 title: The McGee Files
 email: mcx107@protonmail.com
-description: >- The McGee Files is a respository on IT related topics.
+description: >- # this means to ignore newlines until "baseurl:"
+  The McGee Files is a respository on IT related topics.
 baseurl: "themcgeefiles" # the subpath of your site, e.g. /blog
 url: "https://themcgeefiles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
